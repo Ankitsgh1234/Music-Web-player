@@ -1,4 +1,13 @@
 {
-    "title": "Engilsh Songs",
-    "description": "Let's dance with english"
+  "title": "English Songs",
+  "description": "Top English tracks",
+  "songs": [
+    "Bang Bang Rita Ora.mp3",
+    "Dirty Little Secret Zack Knight.mp3",
+    "Electric Katy Perry.mp3",
+    "Go Down Deh Spice.mp3",
+    "Play Date Lilly Brooks.mp3",
+    "street-legends.mp3",
+    "Your Power Billie Eilish.mp3"
+  ]
 }

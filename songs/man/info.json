@@ -1,4 +1,8 @@
 {
-    "title": "Copyright Songs",
-    "description": "Cover Songs for you"
+  "title": "Hindi Songs",
+  "description": "Best Hindi collection",
+  "songs": [
+    "Kaali Jhal Ajit Singh.mp3",
+    "Zihaal E Miskin Vishal Mishra.mp3"
+  ]
 }

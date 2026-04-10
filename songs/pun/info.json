@@ -1,4 +1,13 @@
 {
-    "title": "Sleep Songs",
-    "description": "Cover Songs for you"
+  "title": "Punjabi Songs",
+  "description": "Best Punjabi hits",
+  "songs": [
+    "100 Million - Karan Aujla 320 Kbps.mp3",
+    "Farishtey - B Praak 320 Kbps.mp3",
+    "In Love - Guru Randhawa 320 Kbps.mp3",
+    "Ittar - Jasmine Sandlas 320 Kbps.mp3",
+    "Kanna Vich Waaliyan - Yo Yo Honey Singh 320 Kbps.mp3",
+    "Sports Gaddiyan - Yo Yo Honey Singh 320 Kbps.mp3",
+    "Tell Me Once - Yo Yo Honey Singh 320 Kbps.mp3"
+  ]
 }
